@@ -1,0 +1,14 @@
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#questionh2{
+    padding-left: 12px;
+}
+
+.option-text{
+    padding: 5px;
+}
